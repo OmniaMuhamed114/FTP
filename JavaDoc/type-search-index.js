@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"FTP","l":"Client"},{"p":"FTP","l":"MultipleClients"},{"p":"FTP","l":"Server"},{"p":"FTP","l":"Utils"}]
